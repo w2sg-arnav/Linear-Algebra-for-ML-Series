@@ -1,20 +1,26 @@
-# Linear Algebra for Machine Learning: From Scratch to Mastery
+# Linear Algebra for Machine Learning Series
 
-![Series Banner Image](images/banner.jpg)
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
+[![GitHub stars](https://img.shields.io/github/stars/w2sg-arnav/Linear-Algebra-for-ML-Series?style=social)](https://github.com/w2sg-arnav/Linear-Algebra-for-ML-Series)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+A comprehensive, from-the-ground-up series on Linear Algebra specifically designed for Machine Learning practitioners. This series combines theoretical foundations with practical implementations and real-world ML applications, incorporating insights from leading courses and resources worldwide.
 
-Welcome to the definitive resource for mastering Linear Algebra in the context of Machine Learning. This comprehensive series bridges the gap between theoretical foundations and practical applications, making complex concepts accessible through intuitive visualizations, hands-on coding, and real-world ML examples.
+## 🎯 Course Objectives
+
+By the end of this series, you will:
+- Master the fundamentals of Linear Algebra from vectors to matrix decompositions
+- Understand how Linear Algebra concepts are used in ML algorithms
+- Implement key algorithms from scratch using NumPy
+- Apply concepts to real ML problems like PCA, SVD, and Neural Networks
+- Build intuition through interactive visualizations and examples
+
+Inspired by resources from:
+- Gilbert Strang's MIT Linear Algebra
+- 3Blue1Brown's Essence of Linear Algebra
+- Imperial College London's Mathematics for ML
+- DeepLearning.AI's Linear Algebra course
+- fast.ai's Computational Linear Algebra
 
 ## 📚 Series Structure (40 Lectures)
 
