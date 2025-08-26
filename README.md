@@ -87,14 +87,20 @@ Inspired by resources from:
 This series is structured into four core modules. Each lecture folder contains a Jupyter notebook with all the code, detailed explanations, and exercises.
 
 ### Module 1: The Building Blocks - Vectors, Spaces, and Data Representation
-* **[Lecture 01: What is Linear Algebra & Why it Matters for ML?](./lectures/01-Intro-and-Setup)**
-* **[Lecture 02: Vectors as Data: A Geometric Intuition](./lectures/02-Vectors-and-Data)**
-* **[Lecture 03: The Dot Product: Measuring Similarity and Projection](./lectures/03-Dot-Product-and-Similarity)**
+
+| Lecture Title | Video | Notebook |
+|---------------|-------|----------|
+| 01: The Ultimate Guide to Representing Data | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/01-Intro-and-Setup/lecture_01_notebook.ipynb) |
+| 02: The Dot Product - The Heart of Machine Learning | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/02-Dot-Product-and-Similarity/lecture_02_notebook.ipynb) |
+| 03: Vector Spaces and Linear Independence | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/03-Vector-Spaces/lecture_03_notebook.ipynb) |
 
 ### Module 2: Matrices and Linear Transformations
-* **[Lecture 04: Introduction to Matrices and Matrix Operations](./lectures/04-Matrices-Intro)**
-* **[Lecture 05: Linear Transformations: A Visual Journey](./lectures/05-Linear-Transformations)**
-* **[Lecture 06: Matrix Multiplication as Composition](./lectures/06-Matrix-Multiplication)**
+
+| Lecture Title | Video | Notebook |
+|---------------|-------|----------|
+| 04: Introduction to Matrices - The Language of Transformations | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/04-Matrices-Intro/lecture_04_notebook.ipynb) |
+| 05: Linear Transformations - A Visual Journey | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/05-Linear-Transformations/lecture_05_notebook.ipynb) |
+| 06: Matrix Multiplication and Composition | [![YouTube](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube)](https://youtube.com/your-channel) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2sg-arnav/Linear-Algebra-for-ML-Series/blob/main/lectures/06-Matrix-Multiplication/lecture_06_notebook.ipynb) |
 
 ### Module 3: Advanced Concepts and Decompositions
 * **[Lecture 07: Eigenvalues and Eigenvectors](./lectures/07-Eigenvalues-Eigenvectors)**

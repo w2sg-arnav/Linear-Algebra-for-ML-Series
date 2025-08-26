@@ -1,0 +1,121 @@
+# Bug Report
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out this form as completely as possible.
+  
+  - type: input
+    id: lecture
+    attributes:
+      label: Lecture Number
+      description: Which lecture contains the bug?
+      placeholder: "e.g., Lecture 01"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: What's the issue? Please be as specific as possible.
+      placeholder: "Describe what happened and what you expected to happen"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: What's your setup?
+      placeholder: |
+        - OS: [e.g., Windows 10, macOS 12.0]
+        - Python Version: [e.g., 3.9.7]
+        - Browser (if relevant): [e.g., Chrome 96]
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other context, screenshots, or files that might help us understand?
+    validations:
+      required: false
+
+---
+name: Content Suggestion
+description: Suggest an improvement to the course content
+title: "[Content]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an improvement! Please fill out this form as completely as possible.
+
+  - type: input
+    id: lecture
+    attributes:
+      label: Lecture Number
+      description: Which lecture would this improvement apply to?
+      placeholder: "e.g., Lecture 01 or General"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of Improvement
+      multiple: false
+      options:
+        - Additional Examples
+        - Better Explanation
+        - New Exercise
+        - Visualization
+        - Code Enhancement
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Detailed Suggestion
+      description: What would you like to see improved or added?
+      placeholder: "Please be as specific as possible"
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why would this improvement be valuable?
+      placeholder: "How would this help learners?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation Ideas
+      description: Do you have any specific ideas for implementing this improvement?
+    validations:
+      required: false
